@@ -113,7 +113,7 @@ with st.sidebar:
         st.success(f"✅ Generated {n_records} applicant records.")
 
     st.divider()
-    st.caption("Prototype v1.0 · FIT1055 · 2025")
+    st.caption("Prototype 0.1 · FIT1055 · 2025")
 
 # ---------------------------------------------------------------------------
 # Auto-load dataset on first run
